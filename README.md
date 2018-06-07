@@ -5,6 +5,7 @@ Some basics instructions:
 
 1. Install Arduino IDE of necessary
 https://www.arduino.cc/en/Guide/HomePage
+
 https://www.arduino.cc/en/guide/introduction
 
 2. Install necessary drivers to interface with the Arduino nano clones:
